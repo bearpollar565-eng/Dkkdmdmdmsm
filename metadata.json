@@ -1,0 +1,6 @@
+{
+  "name": "StarFlix Premium",
+  "description": "A highly polished, premium OTT streaming platform loaded with cinematic trailers, seamless background previews, custom media players, and synchronized watchlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

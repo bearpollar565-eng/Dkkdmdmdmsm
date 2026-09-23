@@ -1,0 +1,17 @@
+{
+  "short_name": "StarFlix",
+  "name": "StarFlix OTT - Premium Streaming",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/starflix.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090a0f",
+  "theme_color": "#090a0f",
+  "display": "standalone",
+  "orientation": "any"
+}
